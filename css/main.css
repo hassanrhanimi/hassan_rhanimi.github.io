@@ -79,7 +79,7 @@ a:after {
   text-align:center;
   background-attachment: relative;
   background-position: center center;
-  min-height: 400px;
+  min-height: 420px;
   width: 100%;
   
   -webkit-background-size: 100%;
@@ -112,8 +112,8 @@ a:after {
 /* About Wrap */
 .about {
   background: #2c3e50;
-  padding-top: 60px;
-  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 10px;
   color: white;
 } 
 
